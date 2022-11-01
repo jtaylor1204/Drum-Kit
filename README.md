@@ -4,23 +4,11 @@
 
 This landing page was created as a personal project in conjunction with Angela Yu's Complete 2022 Web Developer Course.
 
-#### LIVE LINK : https://tindog.jaidataylor.tech/
+#### LIVE LINK : https://jtaylor1204.github.io/Drum-Kit/
 
 ## Features
 
 - Are you ready to become a rockstar? 🥁
-
-# TinDog
-
-## Overview
-
-This landing page was created as a personal project in conjunction with Angela Yu's Complete 2022 Web Developer Course.
-
-#### LIVE LINK : https://tindog.jaidataylor.tech/
-
-## Features
-
-- Are you ready for your dog to find love? ❤️🐶
 
 - Click the tiles to play different drum sounds OR press the corresponding key pictured
 
