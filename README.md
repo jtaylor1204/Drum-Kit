@@ -3,7 +3,7 @@
 
 ## Overview
 
-This landing page was created as a personal project in conjunction with Angela Yu's Complete 2022 Web Developer Course.
+This app was created as a personal project in conjunction with Angela Yu's Complete 2022 Web Developer Course.
 
 #### LIVE LINK : https://jtaylor1204.github.io/Drum-Kit/
 
