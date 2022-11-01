@@ -1,4 +1,5 @@
 # Drum Kit
+![drum kit](https://user-images.githubusercontent.com/102535399/199327230-5a31fe5c-1dab-46f6-bbd8-7ea794a8b481.png)
 
 ## Overview
 
